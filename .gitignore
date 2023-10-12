@@ -6,10 +6,6 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
-<<<<<<< HEAD
-index.lock
-=======
->>>>>>> 141a78a377327e7f6c71041ebc1c0d3c238e9c3b
 
 node_modules
 dist
@@ -26,3 +22,5 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+deployment.docs
